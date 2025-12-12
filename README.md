@@ -65,16 +65,6 @@
 
 </p>
 
----
-
-## 📊 GitHub Analytics  
-<p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=anand&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=anand&theme=tokyonight" />
-</p>
-
----
-
 ## 🚀 What I’m Focusing On  
 - Building **industry-level dashboards**  
 - Improving **SQL problem-solving**  
