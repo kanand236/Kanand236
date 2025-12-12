@@ -51,14 +51,8 @@
 <!-- Google Sheets -->
 <img src="https://img.icons8.com/color/48/google-sheets.png" width="50" height="50"/>
 
-<!-- Zoho CRM -->
-<img src="https://img.icons8.com/?size=512&id=YC7CTcYU8X2b&format=png" width="50" height="50"/>
-
 <!-- Git -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
-
-<!-- GitHub -->
-<img src="https://img.icons8.com/?size=512&id=12599&format=png" width="50" height="50"/>
 
 <!-- VS Code -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
