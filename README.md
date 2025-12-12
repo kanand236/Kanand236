@@ -37,7 +37,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
 
 <!-- SQL -->
-<img src="https://img.icons8.com/ios-filled/50/000000/sql.png" width="50" height="50"/>
+<img src="https://img.icons8.com/?size=512&id=13406&format=png" width="50" height="50"/>
 
 <!-- MySQL -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
@@ -52,13 +52,13 @@
 <img src="https://img.icons8.com/color/48/google-sheets.png" width="50" height="50"/>
 
 <!-- Zoho CRM -->
-<img src="https://img.icons8.com/color/48/zoho.png" width="50" height="50"/>
+<img src="https://img.icons8.com/?size=512&id=YC7CTcYU8X2b&format=png" width="50" height="50"/>
 
 <!-- Git -->
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
 
 <!-- GitHub -->
-<img src="https://img.icons8.com/glyph-neue/64/github.png" width="50" height="50"/>
+<img src="https://img.icons8.com/?size=512&id=12599&format=png" width="50" height="50"/>
 
 <!-- VS Code -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
