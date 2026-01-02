@@ -11,7 +11,7 @@
 
 🎯 Goal: To become a high-impact Software Engineer who builds reliable and scalable products
 
-📫 Reach Me: anandkgzb3@gmail.com
+📫 Reach Me: anandkumargzb0@gmail.com
 
 ---
 
