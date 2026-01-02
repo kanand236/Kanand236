@@ -1,23 +1,27 @@
-<h1 align="center">Hi 👋, I'm Anand Kumar</h1>
-<h3 align="center">Data Analyst | Turning Raw Data into Actionable Business Insights</h3>
+<h1 align="center">Hi 👋, I'm Anand Kumar</h1> <h3 align="center">Software Developer | Building Scalable, Efficient & Real-World Applications</h3>
 
 ---
 
 ### 🔍 About Me  
-- 🚕 Completed **Ola Ride Data Analysis Project** (End-to-End Data Cleaning, EDA & Insights)  
-- 🔭 Currently working on **Uber Data Analysis**  
-- 🌱 Learning: **Power BI • Advanced SQL • Data Visualization**  
-- 🎯 Goal: To become a **Top-notch Data Analyst** capable of solving real business problems  
-- 📫 Reach Me: **anandkgzb3@gmail.com**
+💻 Passionate Software Developer with strong fundamentals in Backend & Full-Stack Development
+
+🔭 Currently working on real-world projects using Java, Spring Boot, React & PHP
+
+🌱 Continuously learning System Design, Advanced Backend Concepts & Modern Frameworks
+
+🎯 Goal: To become a high-impact Software Engineer who builds reliable and scalable products
+
+📫 Reach Me: anandkgzb3@gmail.com
 
 ---
 
 ## 🚀 Projects  
-### **Ola Ride Data Analysis — Completed ✅**  
-✔️ Cleaned and transformed raw ride data  
-✔️ Performed detailed EDA using Python & SQL  
-✔️ Found business patterns such as peak hours, trip frequency, fare analysis  
-✔️ Created visual insights and recommendations  
+Hospital Management System
+
+✔️ Developed patient & doctor record management modules
+✔️ Implemented appointment scheduling & secure data handling
+✔️ Optimized database queries for faster performance
+✔️ Built using Java, JDBC, MySQL 
 
 *(Want, I can also help you build a stunning project README for this.)*
 
@@ -31,45 +35,35 @@
 ---
 
 ## 🛠️ Tools & Technologies (As a Data Analyst)
-<p align="left">
+Programming Languages
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45"/> </p>
 
-<!-- Python -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+Frontend Development
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/> </p>
 
-<!-- SQL -->
-<img src="https://img.icons8.com/?size=512&id=13406&format=png" width="50" height="50"/>
+Backend & Frameworks
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45"/> </p>
 
-<!-- MySQL -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
+Databases
+<p align="left"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45"/> <img src="https://img.icons8.com/?size=512&id=13406&format=png" width="45"/> </p>
 
-<!-- Excel -->
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="50" height="50"/>
+Tools & Platforms
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45"/> </p>
 
-<!-- Power BI -->
-<img src="https://img.icons8.com/color/48/power-bi.png" width="50" height="50"/>
+🚀 What I’m Currently Focusing On
 
-<!-- Google Sheets -->
-<img src="https://img.icons8.com/color/48/google-sheets.png" width="50" height="50"/>
+Building scalable backend applications
 
-<!-- Git -->
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" height="50"/>
+Developing RESTful APIs with Spring Boot & Laravel
 
-<!-- VS Code -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+Improving DSA & problem-solving skills
 
-<!-- C++ -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+Learning clean code, design patterns & system design
 
-<!-- Java -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+Creating production-ready full-stack projects
 
-</p>
-
-## 🚀 What I’m Focusing On  
-- Building **industry-level dashboards**  
-- Improving **SQL problem-solving**  
-- Working on **Python automation scripts**  
-- Enhancing **business insights & storytelling**
+🤝 Connect With Me
+<p align="left"> <a href="https://www.linkedin.com" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
 ---
 
