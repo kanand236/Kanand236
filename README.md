@@ -29,7 +29,7 @@ Hospital Management System
 
 ## 🤝 Connect with Me  
 <p align="left">
-<a href="https://www.linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/anand-kumar-201106297/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -63,7 +63,7 @@ Learning clean code, design patterns & system design
 Creating production-ready full-stack projects
 
 🤝 Connect With Me
-<p align="left"> <a href="https://www.linkedin.com" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/anand-kumar-201106297/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
 ---
 
